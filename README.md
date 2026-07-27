@@ -6,22 +6,16 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 ### 🛠️ Основные инструменты и стек технологий
 
-#### Backend & Frameworks
-<img src="https://jsdelivr.net" width="40" height="40" alt="C#"/> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt=".NET Core / ASP.NET"/> &nbsp;
-<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(34%) sepia(85%) saturate(1455%) hue-rotate(234deg) brightness(91%) contrast(98%);" alt="SignalR"/>
+`C#` &nbsp;•&nbsp; `.NET Core` &nbsp;•&nbsp; `ASP.NET Core` &nbsp;•&nbsp; `SignalR`
 
-#### Databases & ORM
-<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(24%) sepia(74%) saturate(3475%) hue-rotate(345deg) brightness(89%) contrast(92%);" alt="MSSQL"/> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL"/>
+`Entity Framework Core` &nbsp;•&nbsp; `MS SQL` &nbsp;•&nbsp; `PostgreSQL`
 
-#### DevOps & OS & Automation
-<img src="https://jsdelivr.net" width="40" height="40" alt="Docker"/> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="Linux"/> &nbsp;
-<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(53%) sepia(81%) saturate(2203%) hue-rotate(174deg) brightness(96%) contrast(97%);" alt="Telegram Bots"/>
+`Docker` &nbsp;•&nbsp; `Linux` &nbsp;•&nbsp; `Telegram Bots`
 
 </div>
