@@ -11,19 +11,17 @@
 ### 🛠️ Основные инструменты и стек технологий
 
 #### Backend & Frameworks
-![C#](https://shields.io)
-![.NET](https://shields.io)
-![ASP.NET Core](https://shields.io)
-![SignalR](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="C#"/> &nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt=".NET Core / ASP.NET"/> &nbsp;
+<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(34%) sepia(85%) saturate(1455%) hue-rotate(234deg) brightness(91%) contrast(98%);" alt="SignalR"/>
 
 #### Databases & ORM
-![Microsoft SQL Server](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Entity Framework Core](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(24%) sepia(74%) saturate(3475%) hue-rotate(345deg) brightness(89%) contrast(92%);" alt="MSSQL"/> &nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL"/>
 
-#### DevOps & OS & Bot Development
-![Docker](https://shields.io)
-![Linux](https://shields.io)
-![Telegram Bots](https://shields.io)
+#### DevOps & OS & Automation
+<img src="https://jsdelivr.net" width="40" height="40" alt="Docker"/> &nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="Linux"/> &nbsp;
+<img src="https://simpleicons.org" width="40" height="40" style="filter: invert(53%) sepia(81%) saturate(2203%) hue-rotate(174deg) brightness(96%) contrast(97%);" alt="Telegram Bots"/>
 
 </div>
