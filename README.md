@@ -12,10 +12,13 @@
 
 ### 🛠️ Основные инструменты и стек технологий
 
+#### Backend & Frameworks
 `C#` &nbsp;•&nbsp; `.NET Core` &nbsp;•&nbsp; `ASP.NET Core` &nbsp;•&nbsp; `SignalR`
 
+#### Databases & ORM
 `Entity Framework Core` &nbsp;•&nbsp; `MS SQL` &nbsp;•&nbsp; `PostgreSQL`
 
+#### DevOps & OS & Automation
 `Docker` &nbsp;•&nbsp; `Linux` &nbsp;•&nbsp; `Telegram Bots`
 
 </div>
